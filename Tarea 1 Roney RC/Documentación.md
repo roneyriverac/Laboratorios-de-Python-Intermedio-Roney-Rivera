@@ -1,0 +1,2 @@
+La API elegida para esta tarea fue la deportes y se extraeyon cuatros APIs con cuatro funciones diferentes utilizando get. Los datos son meramente de ligas de futbol, tablas, temporadas y datos de jugadores. Se crearon 4 funciones llamadas: Lista de ligas, listas de temporadas en una liga, datos de jugadores por ID, y tabla por liga y temporada. Cada una de ellas consume diferentes datos mediante el metodo post. Dichos datos creo que pienso analizarlos y graficarlos. 
+
